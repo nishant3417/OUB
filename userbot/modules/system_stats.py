@@ -134,13 +134,13 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit(
                      " ✨✨✨GØDF@thêr's bot in service✨✨✨  \n"
-                     f"💰👑status : working...... [✔] 🎇 \n"
-                     f"❤️тєℓєтнση νєяѕιση: {version.__version__} [✔] \n"
-                     f"🐍ρутнση: {python_version()} [✔] \n"
-                     f"🤖вσт νєяѕιση: v69+ [✔] \n"
+                     f"💰👑**status** : working...... [✓]  \n"
+                     f"❤️тєℓєтнση νєяѕιση: {version.__version__} [✓] \n"
+                     f"🐍ρутнση: {python_version()} [✓] \n"
+                     f"🤖вσт νєяѕιση: v69+ [✓] \n"
                      f"------------------------------------ \n"
-                     f"👦υѕєя: {DEFAULTUSER} [✔]\n"
-                     f"📡мαιηтαιηєя: @Pradeeptapaulofficial ©™[✔]\n"
+                     f"👦υѕєя: {DEFAULTUSER} [✓]\n"
+                     f"📡мαιηтαιηєя: @Pradeeptapaulofficial ©™[✓]\n"
                      )
 
 
